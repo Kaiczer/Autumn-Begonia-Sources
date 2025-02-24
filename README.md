@@ -197,3 +197,46 @@
 -  Clara Harris - Photography and Tibet<br />
 -  Andrew J. Grajdanzev - Manchuria: An Industrial Survey<br />
 -  Dmitry Petrov - An Unsuccessful Mission: The Short-Lived Alliance of the Soviet Union with Warlord Feng Yuxiang, 1925-1927
+
+###  Autumn Begonia Source Index 2<br />
+###  Migsey Archive<br />
+-  Chihyun Chang and Chiu-Ya Kao - Modern China’s financial obligations and strategies, 1901–1925: the depreciation of tael, the Austrian loans and the gold franc<br />
+-  Yeung Wing Yu，Hans - GUANGZHOU, 1800-1925: THE URBAN EVOLUTION OF A CHINESE PROVINCIAL CAPITAL<br />
+-  Ren Tianhao - Hu Weide and the Weak Diplomacy of the late Qing/Early Republican Period<br />
+-  Kubo Toro - The Shandong Economy in relation to Germany and Japan<br />
+-  Josef Fass - Sun Yat-Sen and Germany in 1921-1924<br />
+-  王學新 - The relationship between the Taiwan Governor's Office's cross-Strait policy and gang members<br />
+-  Allen Yuk-Lun Fang - The Struggle Over the Constitution: Chinese Politics 1917-1919 <br />
+-  任亞蘭 - Zang Zhiping and the First Taiwan Incident<br />
+-  Wei Hongkong - The Commoner General Lu Tao<br />
+-  John D. Sislin - Chemical warfare in the interwar period: insights for thepresent?<br />
+-  Xiong Zongren - The Biography of He Yingqin<br />
+-  Liao Baifang - The Aftermath of Mengjiang 1928<br />
+-  Xu Shuzheng - Jianguo Chuanzhen / Founding The Republic of China 1921 <br />
+-  Zeng Yujun (edited by Cai Dengden)  - Duan Qirui's important counselor - Memoirs of Zeng Yujun, attached with "The Secret History of Duan Qirui"<br />
+-  Chen Huifen - The Guangdong Provincial Assembly during the Guangxi Clique's rule of Guangdong in the early Republic of China 2011 <br />
+-  Wang Bin - Commentary on the Hunan-Hubei War <br />
+-  Chen Changhe and Yin Hua - Viewing the Jiangsu-Zhejiang War in 1924 from the archive s<br />
+-  Peng Yi-Cong - Chiang Kai-shek and Disputes between the Princelings Clique and the Elders Clique in the Guomindang, 1923-1924<br />
+-  Baarbar - Tweentieth Century Mongolia <br />
+-  Mo Xiong -Memoirs <br />
+-  Tong Shizhang - Biography of Gu Zhenglun <br />
+-  Xu Daolin - Chronicle of Xu Shuzheng<br />
+-  Various Authors (secondary and primary writers) - Selected Historical and Literary Materials - Note, you need to download and extract all the files together to read full book. <br />
+-  Xu Shuzheng - Telegrams by Xu Shuzheng - Note, you need to download and extract all the files together to read full book.<br />
+-  Edited by Central History Publishing House - Xu Shuzheng's Ancedotes <br />
+-  Ye Huifen - The convening of the meeting between Xu Shuzheng and the Tianjin Governor<br />
+-  Xie Bin - The History of Political Parties in the ROC <br />
+-  Guangdong Provincial History Committee - Archive of Guangdong Cultural and Historical Materials 2005<br />
+-  Jingzhi Library - The Complete Biography of Qi Xieyuan - published in 1925 <br />
+
+##   Book Links<br />
+- http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC <br />
+- https://www.99csw.com/book/10269/index.htm - Li Zongren <br />
+- http://jds.cass.cn/xsqk/jdszl/qwty_128770/ - Modern Historical Materials - A huge archive of primary sources; letters, telegrams, memoirs etc. <br />
+- https://archive.org/details/10481261_qq/mode/2up - 文史资料选辑总目录 General Catalogue of Selected Literature and History Materials - Catalogue of what issue of the book series contains, use this to find which volume you need. <br />
+- https://archive.org/details/pekingpolitics190000nath/page/n5/mode/2up - Peking Politics - Andrew J Nathan <br />
+- http://chuankuan.com.cn:5244/3.%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/4.%E5%AD%A6%E4%B9%A0%E7%B1%BB/%E5%90%84%E7%9C%81%E5%B8%82%E6%96%87%E5%8F%B2%20%E8%B5%84%E6%96%99%E8%BE%91/%E5%B9%BF%E8%A5%BF%E6%96%87%E5%8F%B2%E8%B5%84%E6%96%99/%E5%B9%BF%E8%A5%BF%E6%96%87%E5%8F%B2%E8%B5%84%E6%96%99%E9%80%89%E8%BE%91%20%20%E7%AC%AC01%E8%BE%91.pdf - Selected Literature and History Materials of Guangxi Volume 1
+- https://www.whcbs.com/Upload/BookReadFile/202002/3342c36349d14537a274a048f0fe2a8b/ops/chapter001.html - 武汉近代史料丛书——武汉民国初期史料 Wuhan Historical Materials in the Early Republic of China - Navigate by changing chapter number in url. Also replace chapter with front in url for preface information.
+- http://lzzx.liuzhou.gov.cn/liuzhouwenshi/wenshi_liuzhou/201701/P020170111681331259694.pdf - Guangxi's 1921 Coup - Liang Zhenhai - Extremely detailed history of Liuzhou in the Guangxi Age of Heroes<br />
+- http://220.173.61.122:8017/book/newsShow.aspx?EN=gxlzfz&book_id=01192202_038&ppage_num=89 - Liujiang Historical and Literary Materials (Guangxi) <br />
